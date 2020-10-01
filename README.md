@@ -1,3 +1,3 @@
 # Arduino
 for home automation
-jaypapa
+Here we develop code for various sensors and microcontrollers
